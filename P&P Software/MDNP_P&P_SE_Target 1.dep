@@ -1,0 +1,17 @@
+Dependencies for Project 'MDNP_P&P_SE', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4A033918)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\Sources\CM3_MCU.c)(0x52694107)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\Headers-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-o .\cm3_mcu.o --omf_browse .\cm3_mcu.crf --depend .\cm3_mcu.d)
+F (.\Sources\CM3_PORTS.c)(0x52695664)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Headers -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Luminary" -o "cm3_ports.o" --omf_browse "cm3_ports.crf" --depend "cm3_ports.d")
+F (.\Sources\CM3_TIMER.c)(0x52694117)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Headers -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Luminary" -o "cm3_timer.o" --omf_browse "cm3_timer.crf" --depend "cm3_timer.d")
+F (.\Sources\CM3_UART.c)(0x5269411B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Headers -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Luminary" -o "cm3_uart.o" --omf_browse "cm3_uart.crf" --depend "cm3_uart.d")
+F (.\Sources\Delay.c)(0x4F35B71E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Headers -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Luminary" -o "delay.o" --omf_browse "delay.crf" --depend "delay.d")
+F (.\Sources\CM3_QEI.c)(0x52694123)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Headers -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Luminary" -o "cm3_qei.o" --omf_browse "cm3_qei.crf" --depend "cm3_qei.d")
+F (.\Sources\CM3_PWM.c)(0x526AC3D4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Headers -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Luminary" -o "cm3_pwm.o" --omf_browse "cm3_pwm.crf" --depend "cm3_pwm.d")
+F (.\Sources\main.c)(0x526FB803)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Headers -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Luminary" -o "main.o" --omf_browse "main.crf" --depend "main.d")
+F (.\Sources\Tiempo.c)(0x5269412F)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Headers -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Luminary" -o "tiempo.o" --omf_browse "tiempo.crf" --depend "tiempo.d")
+F (.\Sources\Fifo.c)(0x522B872F)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Headers -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Luminary" -o "fifo.o" --omf_browse "fifo.crf" --depend "fifo.d")
+F (.\Sources\Accionadores.c)(0x526E6C0E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Headers -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Luminary" -o "accionadores.o" --omf_browse "accionadores.crf" --depend "accionadores.d")
+F (.\Sources\Control_valvula.c)(0x526FB803)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Headers -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Luminary" -o "control_valvula.o" --omf_browse "control_valvula.crf" --depend "control_valvula.d")
+F (.\Sources\Encoder.c)(0x52694142)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Headers -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Luminary" -o "encoder.o" --omf_browse "encoder.crf" --depend "encoder.d")
+F (.\Sources\Comunicacion.c)(0x526EB462)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Headers -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Luminary" -o "comunicacion.o" --omf_browse "comunicacion.crf" --depend "comunicacion.d")
+F (.\Sources\Control_Motor.c)(0x52700CB5)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Headers -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Luminary" -o "control_motor.o" --omf_browse "control_motor.crf" --depend "control_motor.d")

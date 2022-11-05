@@ -1,0 +1,17 @@
+.\main.o: Sources\main.c
+.\main.o: .\Headers\Fifo.h
+.\main.o: .\Headers\tiempo.h
+.\main.o: .\Headers\varios.h
+.\main.o: .\Headers\Defines.h
+.\main.o: .\Headers\lm3s1968.h
+.\main.o: .\Headers\Comunicacion.h
+.\main.o: .\Headers\CM3_MCU.h
+.\main.o: .\Headers\CM3_PORTS.h
+.\main.o: .\Headers\CM3_UART.h
+.\main.o: .\Headers\CM3_TIMER.h
+.\main.o: .\Headers\CM3_QEI.h
+.\main.o: .\Headers\CM3_PWM.h
+.\main.o: .\Headers\Accionadores.h
+.\main.o: .\Headers\Control_valvula.h
+.\main.o: .\Headers\Encoder.h
+.\main.o: .\Headers\Control_Motor.h

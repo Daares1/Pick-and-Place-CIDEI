@@ -1,0 +1,21 @@
+--cpu Cortex-M3
+".\startup.o"
+".\cm3_mcu.o"
+".\cm3_ports.o"
+".\cm3_timer.o"
+".\cm3_uart.o"
+".\delay.o"
+".\cm3_qei.o"
+".\cm3_pwm.o"
+".\main.o"
+".\tiempo.o"
+".\fifo.o"
+".\accionadores.o"
+".\control_valvula.o"
+".\encoder.o"
+".\comunicacion.o"
+".\control_motor.o"
+--strict --scatter ".\MDNP_P&P_SE.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\MDNP_P&P_SE.map" -o .\MDNP_P&P_SE.axf
