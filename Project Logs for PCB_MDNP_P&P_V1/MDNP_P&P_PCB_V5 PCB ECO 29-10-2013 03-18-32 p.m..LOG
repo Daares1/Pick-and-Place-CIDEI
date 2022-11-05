@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MCURSTN Pin=P7-8
+Added Pin To Net: NetName=INT_TDI Pin=P7-8
+Added Pin To Net: NetName=INT_TDI Pin=U1-78
+Added Net: Name=INT_TDI

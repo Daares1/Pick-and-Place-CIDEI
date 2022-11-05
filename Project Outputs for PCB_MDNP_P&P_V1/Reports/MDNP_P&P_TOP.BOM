@@ -1,0 +1,33 @@
+Bill of Material for 
+On 05/09/2013 at 05:18:20 p.m.
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ ABMM-8.000MHZ-B2-T  R38              1    Y1                           Crystal Oscillator   
+ Bornera                              3    P1, P2, P3                   Bornera 2 Pines      
+ Bridge H                             1    U5                           Full-Bridge DMOS PWM Motor Driver 
+ Cap                                 19    C1, C2, C3, C4, C5, C6, C7   Polarized Capacitor  
+                                           C8, C9, C10, C11, C12, C13
+                                           C14, C15, C16, C17, C18, C19
+ D2MQ_H                               1    S1                           Conector Micro Switch 
+ Header 20x2                          1    P6                           Header 40 pines      
+ Header 4x2                           1    P7                           Header 8 pines       
+ Header                               3    P4, P5, P8                   Hedare 2 Pines       
+ LED                                  2    D1, D2                       LED                  
+ LM1117DTX-5.0                        1    U3                                                
+ LM1117IDT-3.3                        1    U4                                                
+ LM3S1512-IQC                         1    U1                           Stellaris ARM Cortex-M3 Microcontroller 
+ MMBT2222                             1    Q2                           NPN Bipolar Transistor 
+ MOC3042                              1    U2                           6 Pin Zero-Cross Optoisolator Triac Driver Output 
+ Motor                                1    B1                           Gear Motor 300:1, 12 RPM, Encoder 900 pulses 
+ Res Adj1                             1    R12                          Variable Resistor    
+ Res1                                22    R1, R2, R3, R4, R5, R6, R7   Resistor             
+                                           R8, R9, R10, R11, R13, R14
+                                           R15, R16, R17, R18, R19, R20
+                                           R21, R22, R23
+ Sensor_Herradura                     1    U6                                                
+ Speaker                              1    LS1                          Loudspeaker          
+ SW-SPST LED                          1    S2                           SW-SPST ON-OFF LED Independent 
+ TP                                   8    TP1, TP2, TP3, TP4, TP5, TP6 Test Point           
+                                           TP7, TP8
+ Triac                                1    Q1                           Silicon Bidirectional Triode Thyristor 

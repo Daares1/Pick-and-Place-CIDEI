@@ -1,0 +1,17 @@
+Added Component: Designator=U7(SSOP-28N)
+Added Pin To Net: NetName=RX-UART1 Pin=U7-1
+Added Pin To Net: NetName=3.3VFT Pin=U7-4
+Added Pin To Net: NetName=TX-UART1 Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=NetJ1_3 Pin=U7-15
+Added Pin To Net: NetName=NetJ1_2 Pin=U7-16
+Added Pin To Net: NetName=3.3VFT Pin=U7-17
+Added Pin To Net: NetName=GND Pin=U7-18
+Added Pin To Net: NetName=NetR26_1 Pin=U7-19
+Added Pin To Net: NetName=5V Pin=U7-20
+Added Pin To Net: NetName=GND Pin=U7-21
+Added Pin To Net: NetName=NetD3_2 Pin=U7-22
+Added Pin To Net: NetName=NetD4_2 Pin=U7-23
+Added Pin To Net: NetName=GND Pin=U7-25
+Added Pin To Net: NetName=GND Pin=U7-26
+Added Member To Class: ClassName=MDNP_P&P_SERIAL Member=Component U7 FT232

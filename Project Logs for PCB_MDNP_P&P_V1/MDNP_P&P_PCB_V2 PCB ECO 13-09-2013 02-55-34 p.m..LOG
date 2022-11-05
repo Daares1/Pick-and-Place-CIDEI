@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=ENCODER_CHA_PHA0 Pin=B1-5
+Removed Pin From Net: NetName=ENCODER_CHB_PHB0 Pin=B1-6
+Removed Pin From Net: NetName=ENCODER_CHA_PHA0 Pin=R17-2
+Removed Pin From Net: NetName=ENCODER_CHB_PHB0 Pin=R18-2
+Added Pin To Net: NetName=ENCODER_CHB_PHB0 Pin=B1-5
+Added Pin To Net: NetName=ENCODER_CHA_PHA0 Pin=B1-6
+Added Pin To Net: NetName=ENCODER_CHB_PHB0 Pin=R17-2
+Added Pin To Net: NetName=ENCODER_CHA_PHA0 Pin=R18-2

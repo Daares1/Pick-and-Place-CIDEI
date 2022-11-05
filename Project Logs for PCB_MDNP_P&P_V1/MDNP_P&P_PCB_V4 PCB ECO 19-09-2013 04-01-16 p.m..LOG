@@ -1,0 +1,10 @@
+Added Component: Designator=U3(TO-252)
+Added Component: Designator=U4(TO-252)
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=12V Pin=U3-3
+Added Pin To Net: NetName=5V Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=5V Pin=U4-3
+Added Pin To Net: NetName=3V3 Pin=U4-4
+Added Member To Class: ClassName=MDNP_P&P_ALIMENTACION Member=Component U3 LM1117
+Added Member To Class: ClassName=MDNP_P&P_ALIMENTACION Member=Component U4 LM1117

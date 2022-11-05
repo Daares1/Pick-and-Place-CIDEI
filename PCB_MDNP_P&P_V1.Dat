@@ -1,0 +1,33 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_MDNP_P&P_V1.PrjPcb|ReportField=ProjectFullPath~C:\Users\Daares1\Dropbox\Metodologia\Validación\Fase 2\3. Diseño_Electrónico\3.4. Diseño PCB\Esquematicos\PCB_MDNP_P&P_V1.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_MDNP_P&P_V1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~102|ReportField=ReportTime~05:18:33 p.m.|ReportField=ReportDate~19/09/2013|ReportField=ReportDateTime~19/09/2013 05:18:33 p.m.|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~Ing. XXXX|ReportField=Author~|ReportField=CheckedBy~Ing. XXXX|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=CurrentDate~19/09/2013|ReportField=CurrentTime~05:18:28 p.m.|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Daares1\Dropbox\Metodologia\Validación\Fase 2\3. Diseño_Electrónico\3.4. Diseño PCB\Esquematicos\MDNP_P&P_TOP.SchDoc|ReportField=DocumentName~MDNP_P&P_TOP.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~Ing. XXXX|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~11/09/2013|ReportField=Organization~XXXX Design|ReportField=ProjectName~PCB_MDNP_P&P_V1.PrjPcb|ReportField=Revision~1|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~X|ReportField=Time~|ReportField=Title~PCB XXXX|ReportField=Cantidad de Venta~|ReportField=CANTIDAD MINIMA DE VENTA~|ReportField=Descripcion~|ReportField=Etapa de Montaje~|ReportField=Link Compra~|ReportField=LinkCompra~|ReportField=ManufactReference~|ReportField=Pdf document~|ReportField=PRECIO UNITARIO~|ReportField=Value~|ReportField=DataSourceFileName~PCB_MDNP_P&P_V1.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Daares1\Dropbox\Metodologia\Validación\Fase 2\3. Diseño_Electrónico\3.4. Diseño PCB\Esquematicos\PCB_MDNP_P&P_V1.PrjPcb
+Motor|Gear Motor 300:1, 12 RPM, Encoder 900 pulses|B1|HDR1X6|Motor|1
+Cap|Polarized Capacitor|C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C16, C17, C18, C19, C20|0805 (2012) Package|Cap|19
+Cap|Polarized Capacitor|C15|QXK2J103KTP|Cap|1
+Cap_1|Capacitor|C21, C22, C23, C25|0805 (2012) Package|Cap_1|4
+Cap|Polarized Capacitor|C24|EEE-1EA101XP|Cap|1
+LED|LED|D1, D2|HDR1X2|LED|2
+LED|LED|D3, D4|0805 (2012) Package|LED|2
+TF||H1, H2, H3, H4|Tornillo-Mod|TF|4
+0481900001|USB On-The-Go (OTG) Mini-B Receptacle, Right Angle, SMT, 0.80mm (.031") Pitch, Solder Tabs with Back Cover, Recessed Type|J1|MINI USB|0481900001|1
+Speaker|Loudspeaker|LS1|HDR1X2|Speaker|1
+Bornera|Bornera 2 Pines|P1, P2, P3|TB_2|Bornera|3
+Header|Header 2 Pines, Hedare 2 Pines|P4, P5, P8|HDR1X2|Header 2|3
+Header 20x2|Header 40 pines|P6|HDR2X20|Header 20x2|1
+Header 4x2|Header 8 pines|P7|HDR2X4|Header 4x2|1
+Triac|Silicon Bidirectional Triode Thyristor|Q1|TO-252-3, DPak|Triac|1
+MMBT2222|NPN Bipolar Transistor|Q2|SOT23-3N|NPN|1
+Res1|Resistor|R1, R2, R3, R4, R6, R7, R8, R13, R14, R15, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30|0805 (2012) Package|Res1|24
+Res1|Resistor|R9|7-1676966-9|Res1|1
+Res1|Resistor|R10|6-1879021-3|Res1|1
+Res1|Resistor|R11|RHC2512FT1K00|Res1|1
+Res Adj1|Variable Resistor|R12|HDR1X3|Res Adj1|1
+RS|Resistor|R16|RLP73K3AR18JTE|Res1|1
+D2MQ_H|Conector Micro Switch|S1|HDR1X3|D2MQ_H|1
+SW-SPST LED|SW-SPST ON-OFF LED Independent|S2, S3|HDR1X4|SW-SPST LED|2
+TP|Test Point|TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10, TP11, TP12, TP13, TP14, TP15, TP16|TEST-POINT_THT|TP|16
+LM3S1968-IQC|Stellaris ARM Cortex-M3 Microcontroller|U1|PZ100_N|LM3S1968-IQC|1
+MOC30XX|6 Pin Zero-Cross Optoisolator Triac Driver Output|U2|MOC3042|MOC30XX|1
+LM1117||U3, U4|TO-252|LM1117|2
+Bridge H|Full-Bridge DMOS PWM Motor Driver|U5|SOIC127P600_HS-8AN|Bridge H|1
+Sensor_Herradura||U6|HDR1X4|Sensor_Herradura|1
+FT232|FTDI CHIP|U7|SSOP-28N|FT232|1
+ABMM-8.000MHZ-B2-T|Crystal Oscillator|Y1|ABLS_XTAL|XTAL|1

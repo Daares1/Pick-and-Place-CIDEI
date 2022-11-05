@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MDNP_P&P_PCB_V4.PcbDoc   30/09/2013  01:22:28 p.m.
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MDNP_P&P_PCB_V4.TXT
+EIA File   : MDNP_P&P_PCB_V4.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        19.7mil (0.50038mm)      Round          27               4.42 Inch (112.22 mm)
+T2        23.6mil (0.59944mm)      Round          107              29.38 Inch (746.13 mm)
+T3        27.6mil (0.70104mm)      Round          34               17.07 Inch (433.63 mm)
+T4        28mil (0.7112mm)         Round          116              18.72 Inch (475.59 mm)
+T5        31.5mil (0.8001mm)       Round          2                0.39 Inch (10.00 mm)
+T6        35.4mil (0.89916mm)      Round          84               21.08 Inch (535.40 mm)
+T7        39.4mil (1.00076mm)      Round          2                0.17 Inch (4.40 mm)
+T8        55.1mil (1.39954mm)      Round          6                3.34 Inch (84.73 mm)
+T9        165.4mil (4.20116mm)     Round          4                10.45 Inch (265.40 mm)
+---------------------------------------------------------------------------
+Totals                                            382              105.02 Inch (2667.50 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

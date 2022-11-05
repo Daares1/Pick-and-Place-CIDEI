@@ -1,0 +1,11 @@
+Added Component: Designator=U5(SOIC127P600_HS-8AN)
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=BRIDGE_IN2_PWM_4 Pin=U5-2
+Added Pin To Net: NetName=BRIDGE_IN1_PWM_3 Pin=U5-3
+Added Pin To Net: NetName=3V3 Pin=U5-4
+Added Pin To Net: NetName=12V Pin=U5-5
+Added Pin To Net: NetName=NetB1_2 Pin=U5-6
+Added Pin To Net: NetName=S_AMP_ADC0 Pin=U5-7
+Added Pin To Net: NetName=NetB1_1 Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-9
+Added Member To Class: ClassName=MDNP_P&P_MOTOR Member=Component U5 Bridge H

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3V3 Pin=R5-1
+Removed Member From Class: ClassName=MDNP_P&P_MCU Member=R5
+Added Room: Name=MDNP_P&P_TOP

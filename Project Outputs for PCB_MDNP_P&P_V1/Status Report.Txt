@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_MDNP_P&P_V1.PrjPcb]
+   Generated File[MDNP_P&P_PCB_V4.GD1]
+   Generated File[MDNP_P&P_PCB_V4.GG1]
+   Generated File[MDNP_P&P_PCB_V4.RUL]
+   Generated File[MDNP_P&P_PCB_V4.EXTREP]
+   Generated File[MDNP_P&P_PCB_V4.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 01:27:51 p.m. On 30/09/2013

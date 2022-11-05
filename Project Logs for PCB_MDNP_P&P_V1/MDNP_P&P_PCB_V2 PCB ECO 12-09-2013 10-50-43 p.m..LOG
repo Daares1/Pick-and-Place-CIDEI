@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EXPANSION_ADC5 Pin=P6-37
+Removed Pin From Net: NetName=EXPANSION_ADC7 Pin=P6-39
+Added Pin To Net: NetName=EXPANSION_ADC7 Pin=P6-37
+Added Pin To Net: NetName=EXPANSION_ADC5 Pin=P6-39

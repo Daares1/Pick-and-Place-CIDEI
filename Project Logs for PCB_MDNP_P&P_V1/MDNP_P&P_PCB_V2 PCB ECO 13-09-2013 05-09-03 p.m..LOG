@@ -1,0 +1,5 @@
+Added Component: Designator=Q2(SOT23-3N)
+Added Pin To Net: NetName=NetLS1_2 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Member To Class: ClassName=MDNP_P&P_LUZ_BUZZER Member=Component Q2 MMBT2222

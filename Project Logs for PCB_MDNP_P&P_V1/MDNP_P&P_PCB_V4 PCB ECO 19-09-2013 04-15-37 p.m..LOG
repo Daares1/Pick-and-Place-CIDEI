@@ -1,0 +1,4 @@
+Added Component: Designator=Y1(ABLS_XTAL)
+Added Pin To Net: NetName=NetC13_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC14_1 Pin=Y1-2
+Added Member To Class: ClassName=MDNP_P&P_MCU Member=Component Y1 ABMM-8.000MHZ-B2-T

@@ -1,0 +1,6 @@
+Added Component: Designator=R9(7-1676966-9)
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetP1_1 Pin=R9-2
+Added Pin To Net: NetName=NetP1_1 Pin=R9-2
+Added Pin To Net: NetName=NetP1_1 Pin=R9-2
+Added Member To Class: ClassName=MDNP_P&P_NEUMATICA Member=Component R9 Res1

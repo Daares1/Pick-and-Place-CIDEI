@@ -1,0 +1,20 @@
+DRC Rules Export File for PCB: C:\Users\Daares1\Dropbox\Metodologia\Validación\Fase 2\3. Diseño_Electrónico\3.4. Diseño PCB\Esquematicos\MDNP_P&P_PCB_V4.PcbDoc
+RuleKind=Width|RuleName=TRIAC3|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=120VAC4|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=120VAC3|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=120VAC2|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=120VAC1|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=120VAC|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=GND_Width|Scope=Board|Minimum=8.66
+RuleKind=Width|RuleName=VDD_Width|Scope=Board|Minimum=8.66
+RuleKind=Width|RuleName=VDD25_Width|Scope=Board|Minimum=8.66
+RuleKind=Clearance|RuleName=Schematic Clearance Constraint_2|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Schematic Clearance Constraint_1|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Schematic Clearance Constraint|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.66
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=9.84
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=12V_Width|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=MOTORS-|Scope=Board|Minimum=59.06
+RuleKind=Width|RuleName=MOTOR+1|Scope=Board|Minimum=59.06

@@ -1,0 +1,6 @@
+Added Component: Designator=U2(MOC3042)
+Added Pin To Net: NetName=NetR28_1 Pin=U2-1
+Added Pin To Net: NetName=CONTROL_VAL_GPIO_H0_O Pin=U2-2
+Added Pin To Net: NetName=NetQ1_3 Pin=U2-4
+Added Pin To Net: NetName=NetR9_1 Pin=U2-6
+Added Member To Class: ClassName=MDNP_P&P_NEUMATICA Member=Component U2 MOC30XX

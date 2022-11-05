@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NA_GPIO_F5_I Pin=U1-46
+Removed Pin From Net: NetName=NC_GPIO_F4_I Pin=U1-58
+Added Pin To Net: NetName=NC_GPIO_F4_I Pin=U1-46
+Added Pin To Net: NetName=NA_GPIO_F5_I Pin=U1-58
+Change Net Name : Old Net Name=NA_GPIO_F5_I New Net Name=NA_GPIO_F4_I
+Change Net Name : Old Net Name=NC_GPIO_F4_I New Net Name=NC_GPIO_F5_I
